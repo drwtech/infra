@@ -7,6 +7,7 @@ require (
 	github.com/go-kratos/kratos/v2 v2.7.2
 	github.com/libi/dcron v0.5.4
 	github.com/redis/go-redis/v9 v9.3.1
+	github.com/robfig/cron/v3 v3.0.1
 )
 
 require (
